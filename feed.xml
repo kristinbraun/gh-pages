@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Kristin Braun</title>
+    <link href="https://kristinbraun.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://kristinbraun.github.io/gh-pages" />
+    <updated>2025-06-24T15:25:22+01:00</updated>
+    <author>
+        <name>Kristin Braun</name>
+    </author>
+    <id>https://kristinbraun.github.io/gh-pages</id>
+
+    <entry>
+        <title>The PWL-T-Rex is online!</title>
+        <author>
+            <name>Kristin Braun</name>
+        </author>
+        <link href="https://kristinbraun.github.io/gh-pages/the-pwl-t-rex-is-online/"/>
+        <id>https://kristinbraun.github.io/gh-pages/the-pwl-t-rex-is-online/</id>
+
+        <updated>2025-04-30T15:23:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I just published my open source framework PWL-T-Rex on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my GitHub or under the Projects tab on this website.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I just published my open source framework <strong>PWL-T-Rex</strong> on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my <a href="https://github.com/kristinbraun/pwl-t-rex" target="_blank" rel="noopener noreferrer">GitHub</a> or under the <a href="https://kristinbraun.github.io/gh-pages/projects/">Projects</a> tab on this website.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

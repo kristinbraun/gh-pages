@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kristinbraun.github.io/gh-pages/sitemap.xml
