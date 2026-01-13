@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://kristinbraun.github.io/gh-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://kristinbraun.net/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://kristinbraun.github.io/gh-pages/</loc>
+<loc>https://kristinbraun.net/</loc>
 </url>
 <url>
-<loc>https://kristinbraun.github.io/gh-pages/contact/</loc>
+<loc>https://kristinbraun.net/contact/</loc>
 <lastmod>2026-01-13T23:49:39+01:00</lastmod>
 </url>
 <url>
-<loc>https://kristinbraun.github.io/gh-pages/cv/</loc>
+<loc>https://kristinbraun.net/cv/</loc>
 <lastmod>2025-06-24T16:06:42+02:00</lastmod>
 </url>
 <url>
-<loc>https://kristinbraun.github.io/gh-pages/projects/</loc>
+<loc>https://kristinbraun.net/projects/</loc>
 <lastmod>2025-06-24T16:10:19+02:00</lastmod>
 </url>
 <url>
-<loc>https://kristinbraun.github.io/gh-pages/publications/</loc>
+<loc>https://kristinbraun.net/publications/</loc>
 <lastmod>2025-06-24T16:01:07+02:00</lastmod>
 </url>
 <url>
-<loc>https://kristinbraun.github.io/gh-pages/pwl-t-rex/</loc>
+<loc>https://kristinbraun.net/pwl-t-rex/</loc>
 <lastmod>2025-06-24T16:20:51+02:00</lastmod>
 </url>
 <url>
-<loc>https://kristinbraun.github.io/gh-pages/research-interests/</loc>
+<loc>https://kristinbraun.net/research-interests/</loc>
 <lastmod>2025-06-24T16:06:34+02:00</lastmod>
 </url>
 <url>
-<loc>https://kristinbraun.github.io/gh-pages/the-pwl-t-rex-is-online/</loc>
+<loc>https://kristinbraun.net/the-pwl-t-rex-is-online/</loc>
 <lastmod>2025-06-24T16:25:22+02:00</lastmod>
 </url>
 </urlset>

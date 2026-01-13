@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Kristin Braun",
     "description": "",
-    "home_page_url": "https://kristinbraun.github.io/gh-pages",
-    "feed_url": "https://kristinbraun.github.io/gh-pages/feed.json",
+    "home_page_url": "https://kristinbraun.net",
+    "feed_url": "https://kristinbraun.net/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kristin Braun"
     },
     "items": [
         {
-            "id": "https://kristinbraun.github.io/gh-pages/the-pwl-t-rex-is-online/",
-            "url": "https://kristinbraun.github.io/gh-pages/the-pwl-t-rex-is-online/",
+            "id": "https://kristinbraun.net/the-pwl-t-rex-is-online/",
+            "url": "https://kristinbraun.net/the-pwl-t-rex-is-online/",
             "title": "The PWL-T-Rex is online!",
             "summary": "I just published my open source framework PWL-T-Rex on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my GitHub or under the Projects tab on this website.",
-            "content_html": "<p>I just published my open source framework <strong>PWL-T-Rex</strong> on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my <a href=\"https://github.com/kristinbraun/pwl-t-rex\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a> or under the <a href=\"https://kristinbraun.github.io/gh-pages/projects/\">Projects</a> tab on this website.</p>",
+            "content_html": "<p>I just published my open source framework <strong>PWL-T-Rex</strong> on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my <a href=\"https://github.com/kristinbraun/pwl-t-rex\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a> or under the <a href=\"https://kristinbraun.net/projects/\">Projects</a> tab on this website.</p>",
             "author": {
                 "name": "Kristin Braun"
             },
