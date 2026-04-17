@@ -15,13 +15,14 @@
             "title": "The PWL-T-Rex is online!",
             "summary": "I just published my open source framework PWL-T-Rex on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation&hellip;",
             "content_html": "<p>I just published my open source framework <strong>PWL-T-Rex</strong> on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my <a href=\"https://github.com/kristinbraun/pwl-t-rex\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a> or directly on this website: <a href=\"https://kristinbraun.net/software/pwl-t-rex/\">PWL-T-Rex</a></p>",
+            "image": "https://kristinbraun.net/media/posts/7/overview_steps_page-0001.jpg",
             "author": {
                 "name": "Kristin Braun"
             },
             "tags": [
             ],
             "date_published": "2025-04-30T16:23:00+02:00",
-            "date_modified": "2026-04-17T11:23:13+02:00"
+            "date_modified": "2026-04-17T12:09:39+02:00"
         }
     ]
 }
