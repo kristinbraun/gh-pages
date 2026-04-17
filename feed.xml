@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I just published my open source framework <strong>PWL-T-Rex</strong> on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my <a href="https://github.com/kristinbraun/pwl-t-rex" target="_blank" rel="noopener noreferrer">GitHub</a> or under the <a href="https://kristinbraun.net/projects/">Projects</a> tab on this website.</p>
+                <p>I just published my open source framework <strong>PWL-T-Rex</strong> on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my <a href="https://github.com/kristinbraun/pwl-t-rex" target="_blank" rel="noopener noreferrer">GitHub</a> or under the <a href="https://kristinbraun.net/software/">Projects</a> tab on this website.</p>
             ]]>
         </content>
     </entry>
