@@ -3,7 +3,7 @@
     <title>Kristin Braun</title>
     <link href="https://kristinbraun.net/feed.xml" rel="self" />
     <link href="https://kristinbraun.net" />
-    <updated>2025-06-24T16:25:22+02:00</updated>
+    <updated>2026-04-17T11:23:13+02:00</updated>
     <author>
         <name>Kristin Braun</name>
     </author>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I just published my open source framework <strong>PWL-T-Rex</strong> on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my <a href="https://github.com/kristinbraun/pwl-t-rex" target="_blank" rel="noopener noreferrer">GitHub</a> or under the <a href="https://kristinbraun.net/software/">Projects</a> tab on this website.</p>
+                <p>I just published my open source framework <strong>PWL-T-Rex</strong> on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my <a href="https://github.com/kristinbraun/pwl-t-rex" target="_blank" rel="noopener noreferrer">GitHub</a> or directly on this website: <a href="https://kristinbraun.net/software/pwl-t-rex/">PWL-T-Rex</a></p>
             ]]>
         </content>
     </entry>
