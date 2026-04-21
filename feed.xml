@@ -3,12 +3,32 @@
     <title>Kristin Braun</title>
     <link href="https://kristinbraun.net/feed.xml" rel="self" />
     <link href="https://kristinbraun.net" />
-    <updated>2026-04-17T12:09:39+02:00</updated>
+    <updated>2026-04-21T10:12:34+02:00</updated>
     <author>
         <name>Kristin Braun</name>
     </author>
     <id>https://kristinbraun.net</id>
 
+    <entry>
+        <title>Submitted: Modeling Binary Relations in Piecewise-Linear Approximations</title>
+        <author>
+            <name>Kristin Braun</name>
+        </author>
+        <link href="https://kristinbraun.net/submitted-modeling-binary-relations-in-piecewise-linear-approximations/"/>
+        <id>https://kristinbraun.net/submitted-modeling-binary-relations-in-piecewise-linear-approximations/</id>
+
+        <updated>2026-03-02T10:12:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Together with Robert Burlacu, Tobias Kuen and Kristina Rolsing, we submitted our article Modeling Binary Relations in Piecewise-Linear Approximations. You can find our preprint on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Together with Robert Burlacu, Tobias Kuen and Kristina Rolsing, we submitted our article Modeling Binary Relations in Piecewise-Linear Approximations. You can find our preprint on <a href="https://optimization-online.org/wp-content/uploads/2026/02/MPIP_oo_manuscript.pdf" target="_blank" rel="noopener noreferrer">Optimization Online</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The PWL-T-Rex is online!</title>
         <author>

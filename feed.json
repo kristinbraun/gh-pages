@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://kristinbraun.net/submitted-modeling-binary-relations-in-piecewise-linear-approximations/",
+            "url": "https://kristinbraun.net/submitted-modeling-binary-relations-in-piecewise-linear-approximations/",
+            "title": "Submitted: Modeling Binary Relations in Piecewise-Linear Approximations",
+            "summary": "Together with Robert Burlacu, Tobias Kuen and Kristina Rolsing, we submitted our article Modeling Binary Relations in Piecewise-Linear Approximations. You can find our preprint on&hellip;",
+            "content_html": "<p>Together with Robert Burlacu, Tobias Kuen and Kristina Rolsing, we submitted our article Modeling Binary Relations in Piecewise-Linear Approximations. You can find our preprint on <a href=\"https://optimization-online.org/wp-content/uploads/2026/02/MPIP_oo_manuscript.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Optimization Online</a>.</p>",
+            "author": {
+                "name": "Kristin Braun"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-02T10:12:00+01:00",
+            "date_modified": "2026-04-21T10:12:34+02:00"
+        },
+        {
             "id": "https://kristinbraun.net/the-pwl-t-rex-is-online/",
             "url": "https://kristinbraun.net/the-pwl-t-rex-is-online/",
             "title": "The PWL-T-Rex is online!",
