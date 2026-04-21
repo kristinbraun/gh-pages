@@ -37,6 +37,20 @@
             ],
             "date_published": "2025-04-30T16:23:00+02:00",
             "date_modified": "2026-04-17T12:09:39+02:00"
+        },
+        {
+            "id": "https://kristinbraun.net/submitted-modeling-binary-relations-in-piecewise-linear-approximations-2/",
+            "url": "https://kristinbraun.net/submitted-modeling-binary-relations-in-piecewise-linear-approximations-2/",
+            "title": "Submitted: Benchmarking Piecewise Linear Reformulations for MINLPs: A Computational Study Based on the Open-Source Framework PWL-T-Rex",
+            "summary": "Together with Robert Burlacu, we submitted our article \"Benchmarking Piecewise Linear Reformulations for MINLPs: A Computational Study Based on the Open-Source Framework PWL-T-Rex\". You can&hellip;",
+            "content_html": "<p>Together with Robert Burlacu, we submitted our article \"B<em>enchmarking Piecewise Linear Reformulations for MINLPs: A Computational Study Based on the Open-Source Framework PWL-T-Rex\"</em>. You can find our preprint on <a href=\"https://optimization-online.org/2023/09/a-computational-study-for-piecewise-linear-relaxations-of-mixed-integer-nonlinear-programs/\" target=\"_blank\" rel=\"noopener noreferrer\">Optimization Online</a>.</p>",
+            "author": {
+                "name": "Kristin Braun"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-11T10:13:00+02:00",
+            "date_modified": "2026-04-21T10:14:58+02:00"
         }
     ]
 }
