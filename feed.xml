@@ -3,7 +3,7 @@
     <title>Kristin Braun</title>
     <link href="https://kristinbraun.net/feed.xml" rel="self" />
     <link href="https://kristinbraun.net" />
-    <updated>2026-04-21T10:14:58+02:00</updated>
+    <updated>2026-04-21T10:32:36+02:00</updated>
     <author>
         <name>Kristin Braun</name>
     </author>
@@ -30,29 +30,6 @@
         </content>
     </entry>
     <entry>
-        <title>The PWL-T-Rex is online!</title>
-        <author>
-            <name>Kristin Braun</name>
-        </author>
-        <link href="https://kristinbraun.net/the-pwl-t-rex-is-online/"/>
-        <id>https://kristinbraun.net/the-pwl-t-rex-is-online/</id>
-        <media:content url="https://kristinbraun.net/media/posts/7/overview_steps_page-0001.jpg" medium="image" />
-
-        <updated>2025-04-30T16:23:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://kristinbraun.net/media/posts/7/overview_steps_page-0001.jpg" alt="" />
-                    I just published my open source framework PWL-T-Rex on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://kristinbraun.net/media/posts/7/overview_steps_page-0001.jpg" class="type:primaryImage" alt="" /></p>
-                <p>I just published my open source framework <strong>PWL-T-Rex</strong> on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my <a href="https://github.com/kristinbraun/pwl-t-rex" target="_blank" rel="noopener noreferrer">GitHub</a> or directly on this website: <a href="https://kristinbraun.net/software/pwl-t-rex/">PWL-T-Rex</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Submitted: Benchmarking Piecewise Linear Reformulations for MINLPs: A Computational Study Based on the Open-Source Framework PWL-T-Rex</title>
         <author>
             <name>Kristin Braun</name>
@@ -69,6 +46,29 @@
         <content type="html">
             <![CDATA[
                 <p>Together with Robert Burlacu, we submitted our article "B<em>enchmarking Piecewise Linear Reformulations for MINLPs: A Computational Study Based on the Open-Source Framework PWL-T-Rex"</em>. You can find our preprint on <a href="https://optimization-online.org/2023/09/a-computational-study-for-piecewise-linear-relaxations-of-mixed-integer-nonlinear-programs/" target="_blank" rel="noopener noreferrer">Optimization Online</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The PWL-T-Rex is online!</title>
+        <author>
+            <name>Kristin Braun</name>
+        </author>
+        <link href="https://kristinbraun.net/the-pwl-t-rex-is-online/"/>
+        <id>https://kristinbraun.net/the-pwl-t-rex-is-online/</id>
+        <media:content url="https://kristinbraun.net/media/posts/7/overview_steps_page-0001.jpg" medium="image" />
+
+        <updated>2025-03-28T16:23:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kristinbraun.net/media/posts/7/overview_steps_page-0001.jpg" alt="" />
+                    I just published my open source framework PWL-T-Rex on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://kristinbraun.net/media/posts/7/overview_steps_page-0001.jpg" class="type:primaryImage" alt="" /></p>
+                <p>I just published my open source framework <strong>PWL-T-Rex</strong> on GitHub. Using this framework, you can reformulate MINLPs to MIP relaxations and approximations using different reformulation techniques. Find more information on my <a href="https://github.com/kristinbraun/pwl-t-rex" target="_blank" rel="noopener noreferrer">GitHub</a> or directly on this website: <a href="https://kristinbraun.net/software/pwl-t-rex/">PWL-T-Rex</a></p>
             ]]>
         </content>
     </entry>
